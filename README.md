@@ -20,10 +20,10 @@ This repository contains the technical solutions for the **SmartCity Data Innova
 ##  How to Run
 
 ### 1. Traffic Analysis (Q1)
-```bash
+```
 cd src/Q1_Traffic_Analysis
 python traffic_analysis.py
-
+```
 #### 2. Emergency Routing (Q3)
 cd src/Q3_Emergency_Routing
 python dijkstra_route.py
